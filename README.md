@@ -56,7 +56,7 @@ https://mlprojectbreastcancer-wlrc9pujmdwymwhc6fpkxg.streamlit.app
 
 ## 🔬 Prediction Page
 
-![Prediction](assets/predict.png)
+![Prediction](assets/prediction.png)
 
 ---
 
