@@ -237,8 +237,8 @@ Computer Science Engineering Student
 
 Passionate about Machine Learning, Data Science, Python, and Full-Stack Development.
 
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: https://github.com/Jahnavikorukonda
+- LinkedIn: https://www.linkedin.com/in/jahnavi-korukonda-079943303
 
 ---
 
